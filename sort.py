@@ -76,5 +76,5 @@ names = []
 for i in range(n):
     for j in range(n):
         names.append((i, j))
-print(names)
-print(sort2(names))
+#print(names)
+#print(sort2(names))

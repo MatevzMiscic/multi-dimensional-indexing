@@ -25,7 +25,6 @@ readfile = "in.csv"
 writefile = "out.csv"
 
 names = read_csv(readfile)
-print(names)
 write_csv(writefile, sort2(names))
 
 
